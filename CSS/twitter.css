@@ -1,0 +1,66 @@
+main{
+    background-color: rgb(29,161,242);
+    position: absolute;
+    float:left;
+    color: #ffffff;
+    padding:100px 140px;
+    height: 420px;
+}
+aside{
+    background-color: #ffffff;
+    position: relative;
+    float: right;
+    padding: 100px;  
+}
+#logo{
+    height: 50px;
+    weight: 50px;
+
+}
+#login{
+    color: rgb(29,161,242);
+    border:solid 1px rgb(29,161,242);
+    background-color: #ffffff;
+    border-radius: 50px;
+    float: right;
+    padding:10px;
+}
+#signup{
+    padding: 10px;
+    border-radius: 50px;
+    width: 400px;
+    color: #ffffff;
+    border:none;
+    background-color: rgb(29,161,242);
+    margin: 10px;
+}
+#login2{
+    color: rgb(29,161,242);
+    padding: 10px;
+    border:solid 1px rgb(29,161,242);
+    border-radius: 50px;
+    width: 400px;
+    background-color: #ffffff;
+    margin: 10px;
+}
+hr{
+    width: 100%;
+}
+footer li {
+    display: inline;
+    padding: 0px 2px;
+}
+#footer{
+    list-style-type: none;
+    font-weight: 30px;
+    position: absolute;
+    bottom: 0%;
+}
+a:link{
+    text-decoration: none;
+    color: #ebe9e9;
+    
+}
+#right{
+padding: 0px 5px 0px 100px;
+}
